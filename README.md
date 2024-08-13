@@ -36,6 +36,8 @@ Après avoir récupérer le projet, vous pouvez tester le projet à l'aide des c
 - _cargo run -- query ./chemin_fichier.txt_ pour essayer une recherche (pensez bien à vous placer dans le dossier du projet)
 - _cargo test_ pour lancer les tests unitaires
 
+Par défaut, l'output de la recherche se fait directement dans le terminal. Pour obtenir le résultat dans un fichier, utilisez _> nom_fichier.txt_ (le fichier output.txt présent dans le projet est un exemple de résultat de poem.txt)
+
 ### Crédits
 
 Ce projet minigrep a été réalisé en suivant le projet du Chapitre 12 du livre officiel du language Rust: [_The Rust programming Language_](https://doc.rust-lang.org/book/ch12-00-an-io-project.html)
