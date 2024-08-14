@@ -22,6 +22,7 @@ Le code reprend des concepts clés de Rust:
 - L'error handling des éléments du programme pouvant causer une erreur
 - L'utilisation d'un _struct_ pour regrouper des données qui font sens ensemble et l'implémentation de méthode par le biais de _impl_
 - Gestion des _lifetimes_ pour éviter les problème de références perdues (dangling references)
+- Utilisation des _iterators_ et _closures_ dans les fonctions de recherche pour un code plus court et élégant
 
 ## Structure
 
